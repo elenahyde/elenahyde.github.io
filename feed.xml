@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Elena Arts</title>
-    <link href="https://elenahyde.github.io/feed.xml" rel="self" />
-    <link href="https://elenahyde.github.io" />
+    <link href="https://elenahyde.com/feed.xml" rel="self" />
+    <link href="https://elenahyde.com" />
     <updated>1969-12-31T14:00:00-10:00</updated>
     <author>
         <name>Elena</name>
     </author>
-    <id>https://elenahyde.github.io</id>
+    <id>https://elenahyde.com</id>
 
 </feed>

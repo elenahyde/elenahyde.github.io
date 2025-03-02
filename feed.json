@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Elena Arts",
     "description": "",
-    "home_page_url": "https://elenahyde.github.io",
-    "feed_url": "https://elenahyde.github.io/feed.json",
+    "home_page_url": "https://elenahyde.com",
+    "feed_url": "https://elenahyde.com/feed.json",
     "user_comment": "",
-    "icon": "https://elenahyde.github.io/media/website/Asset-2.svg",
+    "icon": "https://elenahyde.com/media/website/Asset-2.svg",
     "author": {
         "name": "Elena"
     },

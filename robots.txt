@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://elenahyde.github.io/sitemap.xml
+Sitemap: https://elenahyde.com/sitemap.xml
