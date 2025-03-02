@@ -3,10 +3,22 @@
     <title>Elena Arts</title>
     <link href="https://elenahyde.com/feed.xml" rel="self" />
     <link href="https://elenahyde.com" />
-    <updated>1969-12-31T14:00:00-10:00</updated>
+    <updated>2025-03-01T19:39:13-10:00</updated>
     <author>
         <name>Elena</name>
     </author>
     <id>https://elenahyde.com</id>
 
+    <entry>
+        <title>Holo</title>
+        <author>
+            <name>Elena</name>
+        </author>
+        <link href="https://elenahyde.com/holo/"/>
+        <id>https://elenahyde.com/holo/</id>
+
+        <updated>2025-03-01T19:39:13-10:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
