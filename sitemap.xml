@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>https://elenahyde.com/about/</loc>
-<lastmod>2025-03-13T13:39:48-10:00</lastmod>
+<lastmod>2025-03-18T08:40:22-10:00</lastmod>
 </url>
 <url>
 <loc>https://elenahyde.com/contact/</loc>
@@ -15,22 +15,6 @@
 <url>
 <loc>https://elenahyde.com/holo/</loc>
 <lastmod>2025-03-01T19:39:13-10:00</lastmod>
-</url>
-<url>
-<loc>https://elenahyde.com/photography/</loc>
-<lastmod>2025-03-17T20:01:46-10:00</lastmod>
-<image:image>
-<image:loc>https://elenahyde.com/media/posts/9/gallery/Lizard_small-thumbnail.jpg</image:loc>
-<image:title><![CDATA[A picture of a small gecko on a leaf.]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://elenahyde.com/media/posts/9/gallery/shadows_small-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Black and white photograph of a little girl.]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://elenahyde.com/media/posts/9/gallery/bike-chain-thumbnail.png</image:loc>
-<image:title><![CDATA[Close cropped picture of a bicycle chain.]]></image:title>
-</image:image>
 </url>
 <url>
 <loc>https://elenahyde.com/portfolio/</loc>
@@ -57,6 +41,9 @@
 </url>
 <url>
 <loc>https://elenahyde.com/portfolio/illustration/</loc>
+</url>
+<url>
+<loc>https://elenahyde.com/portfolio/photography/</loc>
 </url>
 <url>
 <loc>https://elenahyde.com/portfolio/student-work/</loc>
